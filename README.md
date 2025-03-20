@@ -15,36 +15,36 @@ This repository is a **comprehensive Full Stack Data Science & Machine Learning 
 
 ## **📂 Course Structure**  
 
-### **🟢 Section 01 - Python Fundamentals**  
+### **Section 01 - Python Fundamentals**  
 🔹 Python programming basics, data types, loops & functions  
 
-### **🟡 Section 02 - Data Analysis with Business Statistics**  
+### **Section 02 - Data Analysis with Business Statistics**  
 🔹 Statistical concepts, hypothesis testing & data visualization  
 
-### **🟠 Section 03 - Machine Learning Fundamentals**  
+### **Section 03 - Machine Learning Fundamentals**  
 🔹 Supervised & Unsupervised Learning, ML algorithms & evaluation  
 
-### **🔵 Section 04 - Flight Fare Prediction (ML Capstone 1)**  
+### **Section 04 - Flight Fare Prediction (ML Capstone 1)**  
 🔹 Predicting and analyzing flight ticket prices  
 
-### **🟣 Section 05 - Mushroom Classification (ML Capstone 2)**  
+### **Section 05 - Mushroom Classification (ML Capstone 2)**  
 🔹 Exploratory Data Analysis (EDA) & classification  
 
-### **🟤 Section 06 - Nursery School Application Classification (ML Capstone 3)**  
+### **Section 06 - Nursery School Application Classification (ML Capstone 3)**  
 🔹 Regression analysis for admission prediction  
 
-### **⚫ Section 07 - Coming Soon**  
+### **Section 07 - Coming Soon**  
 
-### **🔴 Section 08 - UK Road Accident Time Series Forecasting (ML Capstone 5)**  
+### **Section 08 - UK Road Accident Time Series Forecasting (ML Capstone 5)**  
 🔹 Time Series Analysis for accident prediction  
 
-### **🟢 Section 09 - Deep Learning**  
+### **Section 09 - Deep Learning**  
 🔹 Neural Networks, CNNs, RNNs, Transformers  
 
-### **🟡 Section 10 - Microsoft Excel**  
+### **Section 10 - Microsoft Excel**  
 🔹 Data manipulation & analysis techniques  
 
-### **🟠 Section 11 - Microsoft Power BI**  
+### **Section 11 - Microsoft Power BI**  
 🔹 Business Intelligence & Dashboarding  
 
 ---
@@ -62,7 +62,7 @@ This repository is a **comprehensive Full Stack Data Science & Machine Learning 
 ---
 
 ## **📢 Connect & Follow Me**   
-📌 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/rohan-mistry-493987202/)  
-📌 **Medium:** [Your Blog](https://medium.com/@rohanmistry231)  
+📌 **LinkedIn:** [Profile](https://www.linkedin.com/in/rohan-mistry-493987202/)  
+📌 **Medium:** [Blog](https://medium.com/@rohanmistry231)  
 
 ⭐ **If you find this repo useful, don’t forget to star it!** 🚀  
